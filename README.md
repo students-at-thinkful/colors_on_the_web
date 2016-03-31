@@ -59,3 +59,6 @@
 #073642
 #002b36
 ```
+
+* https://www.google.com/design/spec/style/color.html#color-color-palette
+* http://ethanschoonover.com/solarized
