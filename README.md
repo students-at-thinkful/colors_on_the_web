@@ -1,6 +1,6 @@
 # colors_on_the_web
 
-#### simple grayscale hexcodes
+#### simple greyscale hexcodes
 ```
 #000
 #111
@@ -20,7 +20,7 @@
 #fff
 ```
 
-#### material design grayscale hexcodes
+#### material design greyscale hexcodes
 ```
 #FAFAFA
 #F5F5F5
@@ -46,4 +46,16 @@
 #455A64
 #37474F
 #263238
+```
+
+#### solarized greyscale hexcodes
+```
+#fdf6e3
+#eee8d5
+#93a1a1
+#839496
+#657b83
+#586e75
+#073642
+#002b36
 ```
