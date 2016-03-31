@@ -64,7 +64,9 @@
 * https://simple.wikipedia.org/wiki/Web_color
 * https://en.wikipedia.org/wiki/X11_color_names
 * https://en.wikipedia.org/wiki/List_of_colors:_A–F
-* https://en.wikipedia.org/wiki/Orange_(colour)
 
 * https://www.google.com/design/spec/style/color.html#color-color-palette
 * http://ethanschoonover.com/solarized
+
+* https://en.wikipedia.org/wiki/Orange_(colour)
+
